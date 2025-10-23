@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Capitulo2</string>
+    <string name="s_ries">Movie series</string>
+    <string name="minha_lista">List</string>
+    <string name="filmes">Movies</string>
+    <string name="com_dia">Comedy</string>
+    <string name="sitcom">Sitcom</string>
+    <string name="policial">Police</string>
+    <string name="assistir">Play</string>
+    <string name="minha_lista2">LIST</string>
+    <string name="detalhes">Details</string>
+    <string name="lan_amento">Releases</string>
+</resources>

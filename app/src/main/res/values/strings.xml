@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Capitulo2</string>
+    <string name="s_ries">Séries</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="filmes">Filmes</string>
+    <string name="com_dia">Comédia</string>
+    <string name="sitcom">Sitcom</string>
+    <string name="policial">Policial</string>
+    <string name="assistir">Assistir</string>
+    <string name="minha_lista2">MINHA LISTA</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="lan_amento">Lançamento</string>
 </resources>
